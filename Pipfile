@@ -10,6 +10,10 @@ boto3 = "*"
 pyspark-stubs = "==3.0.0.post3"
 requests = "*"
 beautifulsoup4 = "*"
+seaborn = "*"
+matplotlib = "*"
+textblob = "*"
+wordcloud = "*"
 
 [dev-packages]
 
