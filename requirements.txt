@@ -1,0 +1,5 @@
+pyspark~=3.0.3
+pandas~=2.2.3
+requests~=2.32.3
+pyspark-stubs~=3.0.0.post3
+beautifulsoup4~=4.12.3
